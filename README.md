@@ -20,7 +20,7 @@
 - 熟练常用第三方开源库，AFNetworking、FMDB、YYKit、Masonry等
 - 熟练使用Svn、Git 等版本控制工具
 - 对UITableView、UICollectionView性能优化有独特的见解
-- 熟悉Java，Python编程语言,对前端技术如 HTML、CSS、JavaScript、Django 也有一定的了解
+- 熟悉Java，Python，React Native编程语言,对前端技术如 HTML、CSS、JavaScript 也有一定的了解
 
 ### 工作经历
 
