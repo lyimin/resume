@@ -17,10 +17,10 @@
 - 熟练Objective-C、Swift语言，熟练iOS应用程序开发流程，熟练掌握iOS应用程序的开发工具和技巧，熟练Xcode的使用和调试技巧
 - 熟练掌握各种iOS控件使用技巧，具备开发自定义控件的能力
 - 熟练Cocoa框架，了解Objective-C runtime
-- 熟练常用第三方开源库，AFNetworking、FMDB、YYKit、Masonry等
+- 熟练常用OC、Swift第三方开源库，AFNetworking、FMDB、YYKit、Masonry等
 - 熟练使用Svn、Git 等版本控制工具
 - 对UITableView、UICollectionView性能优化有独特的见解
-- 熟悉Java，PHP，React Native编程语言,对前端技术如 HTML、CSS、JavaScript 也有一定的了解
+- 熟练Java、PHP、Python编程语言
 
 ### 工作经历
 
