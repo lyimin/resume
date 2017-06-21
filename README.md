@@ -20,7 +20,7 @@
 - 熟练常用OC、Swift第三方开源库，AFNetworking、FMDB、YYKit、Masonry等
 - 熟练使用Svn、Git 等版本控制工具
 - 对UITableView、UICollectionView性能优化有独特的见解
-- 熟练Java、PHP、Python编程语言
+- 熟练Java、PHP编程语言
 
 ### 工作经历
 
