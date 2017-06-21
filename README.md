@@ -24,14 +24,16 @@
 
 ### 工作经历
 
+- [广州英码信息科技有限公司](http://www.ema-tech.com/) (2017年02 - 至今)
+
+  - 担任iOS开发工程师，主导产品领先智云iOS端App的开发
+  - 负责移动端UI原型图的设计
 
 - [武汉爱立方儿童教育传媒股份有限公司](http://www.alfedu.com/)（2015年06月 - 2017年01月）
 
   - 担任iOS开发工程师，主导产品[健康宝贝（教师端）](https://itunes.apple.com/cn/app/jian-kang-bao-bei-jiao-shi/id1028934935?mt=8)和[健康宝贝（家长端）](https://itunes.apple.com/cn/app/jian-kang-bao-bei-jia-zhang/id1014583705?mt=8)iOS端App的开发、维护和持续升级
 
-- [广州英码信息科技有限公司](http://www.ema-tech.com/) (2017年02 - 至今)
-  - 担任iOS开发工程师，主导产品领先智云iOS端App的开发
-  - 负责移动端UI原型图的设计
+
   
 ### 项目经验
 
