@@ -18,7 +18,7 @@
 - 熟练Objective-C、Swift语言，熟练iOS应用程序开发流程，熟练掌握iOS应用程序的开发工具和技巧，熟练Xcode的使用和调试技巧
 - 熟练掌握各种iOS控件使用技巧，具备开发自定义控件的能力
 - 熟练Cocoa框架，了解Objective-C runtime
-- 熟练常用OC、Swift第三方开源库，AFNetworking、FMDB、YYKit、Masonry等
+- 熟练常用OC、Swift第三方开源库，Alamofire、FMDB、YYKit、Masonry等
 - 熟练使用Svn、Git 等版本控制工具
 - 对UITableView、UICollectionView性能优化有独特的见解
 - 熟练Go编程语言、对设计也有一点的见解
@@ -30,7 +30,7 @@
 
 - [武汉爱立方儿童教育传媒股份有限公司](http://www.alfedu.com/)（2015年06月 - 2017年01月）
 
-  - 担任iOS开发工程师，主导产品[健康宝贝（教师端）](https://itunes.apple.com/cn/app/jian-kang-bao-bei-jiao-shi/id1028934935?mt=8)和[健康宝贝（家长端）](https://itunes.apple.com/cn/app/jian-kang-bao-bei-jia-zhang/id1014583705?mt=8)iOS端App的开发、维护和持续升级
+  - 担任iOS开发工程师，主导产品[爱立方幼教](https://itunes.apple.com/cn/app/jian-kang-bao-bei-jiao-shi/id1028934935?mt=8)和[爱立方育儿](https://itunes.apple.com/cn/app/jian-kang-bao-bei-jia-zhang/id1014583705?mt=8)iOS端App的开发、维护和持续升级
 
 
   
@@ -38,7 +38,7 @@
 
 #### 公司项目
 
-- [健康宝贝(家长端和教师端)](http://ek.alfedu.com/downloads_web/download.html), **3人团队开发** (2015年06月 - 2017年01月)
+- [爱立方幼教 & 爱立方育儿](http://ek.alfedu.com/downloads_web/download.html), **3人团队开发** (2015年06月 - 2017年01月)
 
     - 项目描述：专注于为广大家长和幼儿园搭建无缝、高效的沟通平台，帮助爸爸妈妈们更好地陪伴宝宝的成长，帮助幼儿园实现科学、轻松的家园共育
     - 项目职责：
